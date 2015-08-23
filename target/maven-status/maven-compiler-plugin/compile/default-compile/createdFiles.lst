@@ -1,0 +1,8 @@
+org/wso2/carbon/greg/artifacts/migration/client/LoginAdminServiceClient.class
+org/wso2/carbon/greg/artifacts/migration/client/GovernanceArtifactCheckinClient.class
+org/wso2/carbon/greg/artifacts/migration/client/internal/ServiceHolder.class
+org/wso2/carbon/greg/artifacts/migration/client/MigrationException.class
+org/wso2/carbon/greg/artifacts/migration/client/MigrationClient.class
+org/wso2/carbon/greg/artifacts/migration/client/ArtifactMigrationManager.class
+org/wso2/carbon/greg/artifacts/migration/client/ResourceAdminServiceClient.class
+org/wso2/carbon/greg/artifacts/migration/client/internal/MigrationServiceComponent.class

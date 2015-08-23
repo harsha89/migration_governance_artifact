@@ -1,0 +1,8 @@
+/home/harsha/wso2/ss/support/3rd/FIDELITYDEV-201/migration/migration-client/src/main/java/org/wso2/carbon/greg/artifacts/migration/client/MigrationException.java
+/home/harsha/wso2/ss/support/3rd/FIDELITYDEV-201/migration/migration-client/src/main/java/org/wso2/carbon/greg/artifacts/migration/client/LoginAdminServiceClient.java
+/home/harsha/wso2/ss/support/3rd/FIDELITYDEV-201/migration/migration-client/src/main/java/org/wso2/carbon/greg/artifacts/migration/client/ResourceAdminServiceClient.java
+/home/harsha/wso2/ss/support/3rd/FIDELITYDEV-201/migration/migration-client/src/main/java/org/wso2/carbon/greg/artifacts/migration/client/ArtifactMigrationManager.java
+/home/harsha/wso2/ss/support/3rd/FIDELITYDEV-201/migration/migration-client/src/main/java/org/wso2/carbon/greg/artifacts/migration/client/GovernanceArtifactCheckinClient.java
+/home/harsha/wso2/ss/support/3rd/FIDELITYDEV-201/migration/migration-client/src/main/java/org/wso2/carbon/greg/artifacts/migration/client/internal/ServiceHolder.java
+/home/harsha/wso2/ss/support/3rd/FIDELITYDEV-201/migration/migration-client/src/main/java/org/wso2/carbon/greg/artifacts/migration/client/internal/MigrationServiceComponent.java
+/home/harsha/wso2/ss/support/3rd/FIDELITYDEV-201/migration/migration-client/src/main/java/org/wso2/carbon/greg/artifacts/migration/client/MigrationClient.java
